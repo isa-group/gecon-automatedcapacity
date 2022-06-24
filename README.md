@@ -12,6 +12,8 @@ This repository contains additional information for the paper entitled *Semi-Aut
 ## Example of a LAMA
 For every example included in this repository we will use the same LAMA in Fig. 1 of the paper. Its diagram is shown in the picture below. It has three internal services (S1, S2 and S3) and two external APIs (E1 and E2). Each external API has two different pricing plans with their corresponding prices and limitations. The LAMA offers two pricing plans to its users, and has a single entrypoint (S1).
 
+![LAMA Example](basicmodel.png)
+
 
 ## Formal Description of a LAMA
 Before transforming a LAMA into a CSOP, it must be described using a formal description language. As a first approach, we present *LAMA-DL*, a simple description language that includes all relevant information about a LAMA that is needed to create the CSOP. The example below shows the formal description of the LAMA in Fig. 1 using LAMA-DL. It contains all different elements that can be modelled, such as rates, quotas and overage costs.
