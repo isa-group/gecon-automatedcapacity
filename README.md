@@ -1,5 +1,5 @@
 # GECON 2022 - Semi-Automated Capacity Analysis of Limitation-Aware Microservices Architectures
-This repository contains additional information for the paper entitled *Semi-Automated Capacity Analysis of LAMAs*. It provides further details about transforming a LAMA into a CSOP that could not be included directly due to lack of space.
+This repository contains additional information for the paper entitled *Semi-Automated Capacity Analysis of LAMAs*. It provides further details about transforming a LAMA into a CSOP that could not be included in the paper due to lack of space.
 
 
 ## Contents
